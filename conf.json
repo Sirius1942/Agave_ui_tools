@@ -1,0 +1,25 @@
+{
+	"default":{
+		"save_path":"D:\\work\\labelimg\\data\\data9",
+ 		"from_path":"D:\\work\\labelimg\\data\\VideoTrackSample_3_markable\\VideoTrackSample_3_markable",
+ 		"draw_path":"D:\\work\\labelimg\\data\\data10",
+		"cvsimgfrom_path":"D:\\work\\labelimg\\data\\data13",
+		"csvdata_path":"D:\\work\\code\\Agave_ui_tools\\result",
+		"new_save_path":"D:\\work\\labelimg\\data\\data14",
+		"os_type":"windows",
+		"img_type":".jpg"
+	},
+	"dbconf":{
+		"host":"127.0.0.1",
+        "user":"root",
+        "passwd":"root",
+        "db":"photoncard",
+        "loglevel":"INFO",
+        "logfilename":"db.log"
+	},
+	"log":{
+		"level":"DEBUG",
+		"filename":"../log/log.log"
+	}
+  
+}
